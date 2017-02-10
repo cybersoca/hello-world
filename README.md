@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+This is cybersoca and it is my first repository
